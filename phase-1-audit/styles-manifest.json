@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+    "file": "source/styles/00-commerce-d50e5960dc9fd059-min.en-US.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.accordion/c1f8ca62-d534-4483-a910-4a3b8581b030_314/website.components.accordion.styles.css",
+    "file": "source/styles/01-website.components.accordion.styles.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/d4654e6f-e629-4a2f-8413-65c1524abbe7_1091/website.components.button.styles.css",
+    "file": "source/styles/02-website.components.button.styles.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/21ef93c8-6892-4361-8e47-d9b47db2ea73_966/website.components.code.styles.css",
+    "file": "source/styles/03-website.components.code.styles.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/21a7fe74-b0e8-4cfe-9fbc-013c51202455_1093/website.components.form.styles.css",
+    "file": "source/styles/04-website.components.form.styles.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/a775c378-4b05-4d56-a311-b3384c6a8ee0_921/website.components.html.styles.css",
+    "file": "source/styles/05-website.components.html.styles.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/f336fc9a-f363-4ee0-b3b1-175df66233f3_908/website.components.imageFluid.styles.css",
+    "file": "source/styles/06-website.components.imageFluid.styles.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.quote/2225c92c-4cf6-41c3-8f82-532d17305a8e_767/website.components.quote.styles.css",
+    "file": "source/styles/07-website.components.quote.styles.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.scrolling/9c64b3d4-2e60-483e-a339-60ae6d427a58_693/website.components.scrolling.styles.css",
+    "file": "source/styles/08-website.components.scrolling.styles.css"
+  },
+  {
+    "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/3787c1ec-8209-4b12-8bc5-813e754132df_699/website.components.socialLinks.styles.css",
+    "file": "source/styles/09-website.components.socialLinks.styles.css"
+  },
+  {
+    "url": "https://static1.squarespace.com/static/versioned-site-css/645c073c0070e9714d29d684/34/5c5a519771c10ba3470d8101/645c073c0070e9714d29d68b/1826/site.css?nocustom=true",
+    "file": "source/styles/10-site.css"
+  },
+  {
+    "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1789043197505-DAFJD75BBCOTLJ5Z5UA4/static.css",
+    "file": "source/styles/11-static.css"
+  }
+]

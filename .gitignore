@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+*.log
+.pnpm-store/
+phase-1-audit/python-deps/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example

@@ -1,0 +1,371 @@
+[
+  {
+    "page": "https://pfinsulation.com.au/",
+    "name": "Quote Request",
+    "fields": [
+      {
+        "type": "name",
+        "id": "name-yui_3_17_2_1_1684394147950_19761",
+        "locked": false,
+        "title": "Get Quote",
+        "description": "",
+        "required": true,
+        "name": true,
+        "customConstraints": {
+          "requireFirstName": {
+            "enabled": true
+          },
+          "requireLastName": {
+            "enabled": true
+          },
+          "showFirstName": {
+            "enabled": true
+          },
+          "showLastName": {
+            "enabled": true
+          }
+        }
+      },
+      {
+        "type": "email",
+        "id": "email-yui_3_17_2_1_1684394147950_19762",
+        "locked": false,
+        "title": "Email",
+        "description": "",
+        "placeholder": "",
+        "required": true,
+        "email": true
+      },
+      {
+        "required": true,
+        "locked": false,
+        "description": "",
+        "id": "phone-d40c5054-5ac6-4148-a064-34d7561ca642",
+        "phone": true,
+        "type": "phone",
+        "showCountryCode": false,
+        "title": "Phone"
+      },
+      {
+        "type": "textarea",
+        "id": "textarea-yui_3_17_2_1_1684394147950_19764",
+        "locked": false,
+        "title": "Message",
+        "description": "",
+        "placeholder": "",
+        "required": true,
+        "textarea": true,
+        "maxLength": ""
+      },
+      {
+        "required": false,
+        "locked": false,
+        "description": "",
+        "id": "address-f8c33ae6-28f2-4e1e-9113-7c4d8e417e36",
+        "address": true,
+        "type": "address",
+        "title": "Address"
+      }
+    ],
+    "submit": "Submit",
+    "success": {
+      "html": "<p class=\"sqsrte-large\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Thank you for reaching out to us! We appreciate you taking the time to submit your information, and we’re excited to help with your insulation removal and reinstall needs. Our team is reviewing your request and will get back to you shortly with more details or to schedule a consultation.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">In the meantime, if you have any questions, feel free to contact us at 0466253396 or <a href=\"mailto:pfinsulation01@gmail.com\"><strong>pfinsulation01@gmail.com</strong></a>.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">We’re here to help!</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">We look forward to working with you to make your home more comfortable and energy-efficient.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Thank you again for choosing</p><h3 data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"><strong>BILL.B</strong></h3><h3 data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">PF Insulation</h3><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+    },
+    "captcha": true,
+    "redirect": null,
+    "privacyPolicyUrl": null
+  },
+  {
+    "page": "https://pfinsulation.com.au/home",
+    "name": "Quote Request",
+    "fields": [
+      {
+        "type": "name",
+        "id": "name-yui_3_17_2_1_1684394147950_19761",
+        "locked": false,
+        "title": "Get Quote",
+        "description": "",
+        "required": true,
+        "name": true,
+        "customConstraints": {
+          "requireFirstName": {
+            "enabled": true
+          },
+          "requireLastName": {
+            "enabled": true
+          },
+          "showFirstName": {
+            "enabled": true
+          },
+          "showLastName": {
+            "enabled": true
+          }
+        }
+      },
+      {
+        "type": "email",
+        "id": "email-yui_3_17_2_1_1684394147950_19762",
+        "locked": false,
+        "title": "Email",
+        "description": "",
+        "placeholder": "",
+        "required": true,
+        "email": true
+      },
+      {
+        "required": true,
+        "locked": false,
+        "description": "",
+        "id": "phone-d40c5054-5ac6-4148-a064-34d7561ca642",
+        "phone": true,
+        "type": "phone",
+        "showCountryCode": false,
+        "title": "Phone"
+      },
+      {
+        "type": "textarea",
+        "id": "textarea-yui_3_17_2_1_1684394147950_19764",
+        "locked": false,
+        "title": "Message",
+        "description": "",
+        "placeholder": "",
+        "required": true,
+        "textarea": true,
+        "maxLength": ""
+      },
+      {
+        "required": false,
+        "locked": false,
+        "description": "",
+        "id": "address-f8c33ae6-28f2-4e1e-9113-7c4d8e417e36",
+        "address": true,
+        "type": "address",
+        "title": "Address"
+      }
+    ],
+    "submit": "Submit",
+    "success": {
+      "html": "<p class=\"sqsrte-large\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Thank you for reaching out to us! We appreciate you taking the time to submit your information, and we’re excited to help with your insulation removal and reinstall needs. Our team is reviewing your request and will get back to you shortly with more details or to schedule a consultation.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">In the meantime, if you have any questions, feel free to contact us at 0466253396 or <a href=\"mailto:pfinsulation01@gmail.com\"><strong>pfinsulation01@gmail.com</strong></a>.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">We’re here to help!</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">We look forward to working with you to make your home more comfortable and energy-efficient.</p><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">Thank you again for choosing</p><h3 data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"><strong>BILL.B</strong></h3><h3 data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\">PF Insulation</h3><p data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p>"
+    },
+    "captcha": true,
+    "redirect": null,
+    "privacyPolicyUrl": null
+  },
+  {
+    "page": "https://pfinsulation.com.au/inquiry",
+    "name": "Detailed Contact Form",
+    "fields": [
+      {
+        "type": "name",
+        "id": "name-yui_3_17_2_1_1656512558754_8591",
+        "locked": false,
+        "title": "Name",
+        "description": "",
+        "required": true,
+        "name": true,
+        "customConstraints": {
+          "requireFirstName": {
+            "enabled": true
+          },
+          "requireLastName": {
+            "enabled": true
+          },
+          "showFirstName": {
+            "enabled": true
+          },
+          "showLastName": {
+            "enabled": true
+          }
+        }
+      },
+      {
+        "type": "email",
+        "id": "email-yui_3_17_2_1_1656513823935_14276",
+        "locked": false,
+        "title": "Email",
+        "description": "",
+        "placeholder": "",
+        "required": true,
+        "email": true,
+        "mailingList": true,
+        "emailVerification": false
+      },
+      {
+        "required": false,
+        "locked": false,
+        "description": "",
+        "id": "phone-31dab47d-540d-4071-881c-b70893a3432e",
+        "phone": true,
+        "type": "phone",
+        "showCountryCode": false,
+        "title": "Phone"
+      },
+      {
+        "required": true,
+        "locked": false,
+        "description": "",
+        "id": "checkbox-95d070f3-ee33-4c09-8175-51c3846b4b16",
+        "checkbox": true,
+        "type": "checkbox",
+        "options": [
+          "INSULATION REMOVAL",
+          "INSULATION INSTALL",
+          "UNDERFLOOR",
+          "WALL INSULATION",
+          "ALL OF THEM"
+        ],
+        "title": "What services are you interested in?",
+        "followUpQuestions": []
+      },
+      {
+        "type": "textarea",
+        "id": "textarea-yui_3_17_2_1_1656513823935_14278",
+        "locked": false,
+        "title": "Message",
+        "description": "",
+        "placeholder": "",
+        "required": true,
+        "textarea": true,
+        "maxLength": ""
+      },
+      {
+        "required": false,
+        "locked": false,
+        "description": "",
+        "id": "textarea-17ee5f80-058e-4bc3-881e-49109ef8e5bc",
+        "textarea": true,
+        "type": "textarea",
+        "placeholder": "",
+        "title": "ADDRESS OF HOUSE NEED TO BE DONE"
+      }
+    ],
+    "submit": "Submit",
+    "success": {
+      "html": "Thank you!"
+    },
+    "captcha": true,
+    "redirect": "",
+    "privacyPolicyUrl": null
+  },
+  {
+    "page": "https://pfinsulation.com.au/contact-for-rebate",
+    "name": "Check your property’s potential eligibility An enquiry does not guarantee eligibility or lock in a rebate amoun",
+    "fields": [
+      {
+        "type": "name",
+        "id": "name-yui_3_17_2_1_1752776219777_1542",
+        "locked": false,
+        "title": "Name",
+        "description": "",
+        "required": true,
+        "name": true,
+        "customConstraints": {
+          "requireFirstName": {
+            "enabled": true
+          },
+          "requireLastName": {
+            "enabled": true
+          },
+          "showFirstName": {
+            "enabled": true
+          },
+          "showLastName": {
+            "enabled": true
+          }
+        }
+      },
+      {
+        "type": "email",
+        "id": "email-yui_3_17_2_1_1752776219777_1543",
+        "locked": false,
+        "title": "Email",
+        "description": "",
+        "placeholder": "",
+        "required": true,
+        "email": true,
+        "mailingList": false
+      },
+      {
+        "required": false,
+        "locked": false,
+        "description": "",
+        "id": "phone-eae5831f-b98b-4e04-af57-ea37cfde3f64",
+        "phone": true,
+        "type": "phone",
+        "showCountryCode": false,
+        "title": "Phone"
+      },
+      {
+        "required": true,
+        "locked": false,
+        "description": "",
+        "id": "select-077e9609-34bf-436a-8e48-2c6d16fe3c3e",
+        "select": true,
+        "type": "select",
+        "canHaveFollowUpQuestions": true,
+        "placeholder": "Select an option",
+        "options": [
+          "single story",
+          "double story",
+          "unit or appartment",
+          "Option 4"
+        ],
+        "title": "Property type",
+        "followUpQuestions": []
+      },
+      {
+        "required": true,
+        "locked": false,
+        "description": "",
+        "id": "select-9605e33d-671d-418b-929c-ee09eef0f5a3",
+        "select": true,
+        "type": "select",
+        "canHaveFollowUpQuestions": true,
+        "placeholder": "Select an option",
+        "options": [
+          "House owner",
+          "Landlord",
+          "Propert manager",
+          "Tenent",
+          "Builder"
+        ],
+        "title": "I am the",
+        "followUpQuestions": []
+      },
+      {
+        "required": true,
+        "locked": false,
+        "description": "",
+        "id": "select-35d69d6d-c9b9-4059-ad04-7798c3c501b1",
+        "select": true,
+        "type": "select",
+        "canHaveFollowUpQuestions": true,
+        "placeholder": "Select an option",
+        "options": [
+          "No Insulation",
+          "Old Batt",
+          "Loose fill Or Blow-in insulation",
+          "Unsure"
+        ],
+        "title": "Existing Insulation",
+        "followUpQuestions": []
+      },
+      {
+        "required": true,
+        "locked": false,
+        "description": "",
+        "id": "address-d5540ff1-7e92-41ba-89fa-12febe3e95e7",
+        "address": true,
+        "type": "address",
+        "title": "Address"
+      }
+    ],
+    "submit": "Submit",
+    "success": {
+      "html": "<p>Thank you!</p>"
+    },
+    "captcha": true,
+    "redirect": "",
+    "privacyPolicyUrl": null
+  }
+]
