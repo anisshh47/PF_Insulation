@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Storyboard placeholder: Feel the difference">
+<rect width="1000" height="1000" fill="#eceae6"/>
+<g fill="none" stroke="#323232" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+<rect x="40" y="40" width="920" height="920" stroke-dasharray="14 10" stroke-width="2" opacity=".35"/>
+<path d="M180 520 L500 270 L820 520 M250 470 V760 H750 V470"/><circle cx="780" cy="230" r="42" fill="#3168ff" stroke="none"/><path d="M780 150v-30M780 310v30M700 230h-30M860 230h30" stroke="#3168ff"/><path d="M320 600 q40 -40 80 0 t80 0 t80 0 t80 0" stroke="#3168ff" stroke-width="6"/><path d="M320 670 q40 -40 80 0 t80 0 t80 0 t80 0" stroke="#3168ff" stroke-width="6"/>
+</g>
+<rect x="40" y="880" width="920" height="80" fill="#323232"/>
+<text x="130" y="928" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="2">SHOT 04</text>
+<text x="870" y="928" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="20" fill="#fff" letter-spacing="1">STORYBOARD · REPLACE WITH PHOTO</text>
+</svg>

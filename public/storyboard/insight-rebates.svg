@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Storyboard placeholder: Journal: rebates">
+<rect width="1000" height="1000" fill="#eceae6"/>
+<g fill="none" stroke="#323232" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+<rect x="40" y="40" width="920" height="920" stroke-dasharray="14 10" stroke-width="2" opacity=".35"/>
+<rect x="250" y="260" width="500" height="520" fill="#fff"/><path d="M310 340h300M310 400h380M310 460h380M310 520h220"/><circle cx="660" cy="660" r="70" fill="#3168ff" stroke="none"/><path d="M630 660 l22 22 l40 -46" stroke="#fff" stroke-width="10"/>
+</g>
+<rect x="40" y="880" width="920" height="80" fill="#323232"/>
+<text x="130" y="928" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="2">SHOT 06</text>
+<text x="870" y="928" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="20" fill="#fff" letter-spacing="1">STORYBOARD · REPLACE WITH PHOTO</text>
+</svg>

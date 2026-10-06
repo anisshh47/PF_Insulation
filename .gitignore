@@ -9,3 +9,26 @@ __pycache__/
 .env
 .env.*
 !.env.example
+
+# Reference-site capture (varcopruden.com HTTrack mirror, screenshots, analysis). Evidence only; never ship or commit.
+replication-workspace/
+reference/
+mirror/
+mirror-incomplete/
+varcopruden.com/
+*.scene7.com/
+assets.adobedtm.com/
+hts-cache/
+hts-log.txt
+hts-in_progress.lock
+cookies.txt
+capture-command.json
+capture-result.json
+
+# Tooling / editor / OS
+.claude/
+.playwright/
+playwright-report/
+test-results/
+.DS_Store
+*.tsbuildinfo

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Storyboard placeholder: Let’s have a chat">
+<rect width="1000" height="1000" fill="#eceae6"/>
+<g fill="none" stroke="#323232" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+<rect x="40" y="40" width="920" height="920" stroke-dasharray="14 10" stroke-width="2" opacity=".35"/>
+<path d="M180 520 L500 270 L820 520 M250 470 V760 H750 V470"/><rect x="560" y="560" width="230" height="130" fill="#fff"/><path d="M590 600h170M590 640h110"/><rect x="300" y="610" width="150" height="150" fill="#3168ff" stroke="none" opacity=".9"/><circle cx="375" cy="650" r="14" fill="#fff" stroke="none"/><path d="M345 730 q30 -50 60 0" stroke="#fff"/>
+</g>
+<rect x="40" y="880" width="920" height="80" fill="#323232"/>
+<text x="130" y="928" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="2">SHOT 01</text>
+<text x="870" y="928" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="20" fill="#fff" letter-spacing="1">STORYBOARD · REPLACE WITH PHOTO</text>
+</svg>

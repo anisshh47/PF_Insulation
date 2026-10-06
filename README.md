@@ -34,7 +34,6 @@ Before production: confirm preferred contact routing, final image rights, ABN an
 
 ## Design direction
 
-Deep forest `#173c32` anchors the PF identity, warm ivory keeps the reading experience calm, and pale lime `#d9ef88` distinguishes important actions. This is a design intention, not a claim that colour guarantees conversions. Short sections, clear choices and approachable copy reduce the work needed to understand the services and enquire.
+The frontend follows the layout and design language of varcopruden.com (flat blue/ink/paper fields, square corners, large light type, notched imagery, pinned scroll scene, paired CTA panels). The full analysis and token table are in [DESIGN_SYSTEM.md](DESIGN_SYSTEM.md); a live token/primitives page is at `/#design-system`.
 
-`src/App.jsx` contains the React UI; `src/main.jsx` is the entry point. `src/styles.css` contains Tailwind's import, theme and responsive component styles. The seasonal panel demonstrates dynamic React JSS styling.
-
+`src/design-system/` holds tokens and primitives, `src/components/` the page sections, `src/content.js` all copy and data, and `src/styles.css` the section layouts. Storyboard placeholders for slots with no real photo live in `public/storyboard/`.
