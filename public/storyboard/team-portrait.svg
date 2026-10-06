@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Storyboard placeholder: Team portrait">
+<rect width="1000" height="1000" fill="#eceae6"/>
+<g fill="none" stroke="#323232" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+<rect x="40" y="40" width="920" height="920" stroke-dasharray="14 10" stroke-width="2" opacity=".35"/>
+<circle cx="500" cy="400" r="130" fill="#fff"/><path d="M270 780 q0 -230 230 -230 t230 230 Z" fill="#fff"/><path d="M390 340 q110 -150 220 0 Z" fill="#3168ff" stroke="none"/><path d="M370 345 H630" stroke-width="8"/>
+</g>
+<rect x="40" y="880" width="920" height="80" fill="#323232"/>
+<text x="130" y="928" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="2">SHOT 05</text>
+<text x="870" y="928" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="20" fill="#fff" letter-spacing="1">STORYBOARD · REPLACE WITH PHOTO</text>
+</svg>

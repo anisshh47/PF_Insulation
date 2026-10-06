@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-label="Storyboard placeholder: We get to work">
+<rect width="1000" height="1000" fill="#eceae6"/>
+<g fill="none" stroke="#323232" stroke-width="3" stroke-linecap="square" stroke-linejoin="miter">
+<rect x="40" y="40" width="920" height="920" stroke-dasharray="14 10" stroke-width="2" opacity=".35"/>
+<path d="M100 640 L500 300 L900 640"/><path d="M200 640 L500 385 L800 640"/><path d="M100 640 H900" stroke-width="5"/><path d="M150 640 v-70 M185 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M220 640 v-70 M255 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M290 640 v-70 M325 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M360 640 v-70 M395 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M430 640 v-70 M465 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M500 640 v-70 M535 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M570 640 v-70 M605 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M640 640 v-70 M675 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M710 640 v-70 M745 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M780 640 v-70 M815 640 v-120" stroke-dasharray="4 7" opacity=".7"/><path d="M850 640 v-70 M885 640 v-120" stroke-dasharray="4 7" opacity=".7"/><rect x="230" y="600" width="540" height="60" fill="#3168ff" stroke="none" opacity=".85"/><circle cx="360" cy="520" r="28" fill="#fff"/><path d="M330 600 V545 H395 V600"/><path d="M590 520 q70 -10 120 60" stroke="#3168ff" stroke-width="12"/>
+</g>
+<rect x="40" y="880" width="920" height="80" fill="#323232"/>
+<text x="130" y="928" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="2">SHOT 03</text>
+<text x="870" y="928" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="20" fill="#fff" letter-spacing="1">STORYBOARD · REPLACE WITH PHOTO</text>
+</svg>
